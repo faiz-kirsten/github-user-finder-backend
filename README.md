@@ -30,7 +30,7 @@ Copy and paste these commands into your command line/terminal.
 
 ```
 cd backend && npm start
-cd client && npm start
+cd frontend && npm start
 ```
 
 ## Usage
@@ -42,6 +42,6 @@ Enter a valid username of a github user and it will return the users information
 Copy and paste these commands into your command line/terminal.
 
 ```
-cd server && npm test
-cd client && npm test
+cd backend && npm test
+cd frontend && npm test
 ```
