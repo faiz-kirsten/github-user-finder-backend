@@ -1,0 +1,29 @@
+/* profile container */
+.profileContainer {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2em;
+    margin-bottom: 3em;
+}
+
+/* profile image */
+.profileImg {
+    width: 20em;
+    height: 20em;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* User information */
+.userInformation {
+    display: grid;
+}
+
+.information {
+    font-size: 1.05rem;
+    margin-bottom: 0.5em;
+}
+
+.title {
+    font-weight: bold;
+}
